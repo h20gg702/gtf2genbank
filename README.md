@@ -12,6 +12,14 @@ Please use them **at your own risk! :)**
 - **Compare different transcripts of a gene** by eye  
 - **Assist primer design** by clearly seeing exon boundaries and untranslated regions  
 
+### Example screenshots
+
+![Isoforms view](docs/example_isoforms.png)  
+*Differences between transcript isoforms*
+
+![Exons view](docs/example_exons.png)  
+*Detailed exon/UTR structures*
+
 ## Usage
 
 ```bash
